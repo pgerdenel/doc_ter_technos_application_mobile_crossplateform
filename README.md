@@ -6,3 +6,5 @@ __Travail d'étude et de recherche (TER)__
 
 - Analyse des technologies de développement d'application mobile multiplateforme(cross-plateform)
 - De l'application native à l'hybride-native en passant par la web progressive(WPA) et l'hybride-web
+
+(public version)
